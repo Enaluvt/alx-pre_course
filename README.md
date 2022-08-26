@@ -1,1 +1,4 @@
-My first readme
+My first Readme
+Going to school
+learning
+yes
